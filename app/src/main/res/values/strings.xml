@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SQLite_interna</string>
+    <string name="Registrar">Sign in</string>
+    <string name="Ingrsar">Login</string>
+    <string name="CorreoLogin">E-mail</string>
+    <string name="Contraseña">Password</string>
+    <string name="TextoRegistro">Ingrese los siguietes datos</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Cancelar">Cancelar</string>
 </resources>

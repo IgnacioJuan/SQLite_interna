@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#90CAF9"
+    android:background="@drawable/bg_color"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:text="FORMULARIO"
             android:textAlignment="center"
-            android:textColor="#F44336"
+            android:textColor="@color/black"
             android:textSize="20sp" />
 
         <EditText
