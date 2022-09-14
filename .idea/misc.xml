@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/SQLite_interna/app/src/main/res/drawable/bg_color.xml" value="0.149" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/SQLite_interna/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/SQLite_interna/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/SQLite_interna/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/SQLite_interna/app/src/main/res/layout/detalle_clientes.xml" value="0.25" />
         <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/SQLite_interna/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/SQLite_interna/app/src/main/res/layout/detalle_clientes.xml" value="0.271875" />
       </map>
